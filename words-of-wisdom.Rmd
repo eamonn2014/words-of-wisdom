@@ -1,0 +1,490 @@
+---
+title: "Harrell Words of Wisdom"
+author: "Eamonn"
+date: "Sunday, August 03, 2014"
+output:
+  pdf_document: default
+  html_document: default
+---
+ 
+nice interpretation of syntax meaning.
+ 
+https://stats.stackexchange.com/questions/38370/interpreting-three-forms-of-a-mixed-model
+
+http://andrewgelman.com/2017/03/07/descriptive-analysis-using-regression-models/
+ 
+http://andrewgelman.com/2009/03/02/describing_desc/
+
+http://stats.stackexchange.com/questions/86917/is-a-lower-training-accuracy-possible-in-overfitting-one-class-svm
+
+http://stats.stackexchange.com/questions/49953/classification-vs-regression-for-prediction-of-the-sign-of-a-continuous-respons
+
+http://stats.stackexchange.com/questions/66022/how-to-select-cut-point-for-making-classifications-table-for-logistic-regression
+
+http://r.789695.n4.nabble.com/Interpreting-the-example-given-by-Frank-Harrell-in-the-predict-lrm-Design-help-td2883311.html
+
+http://stats.stackexchange.com/questions/67560/roc-and-multiroc-analysis-how-to-calculate-optimal-cutpoint/67563#67563
+
+http://stats.stackexchange.com/questions/67027/combining-sensitivity-and-specificity-to-measure-classification-performance/67030#67030
+
+http://stats.stackexchange.com/questions/73165/logistic-regression-maximizing-true-positives-false-positives
+
+http://stats.stackexchange.com/questions/57606/confidence-interval-for-classification-error-binomial-assumption-vs-bootsrap-r
+
+http://stats.stackexchange.com/questions/11823/why-does-noisy-data-result-in-better-prediction-performance/11824#11824
+
+http://stats.stackexchange.com/questions/14153/based-only-on-these-sensitivity-and-specificity-values-what-is-the-best-decisio/14178#14178
+
+http://stats.stackexchange.com/questions/10049/improving-accuracy-of-a-binary-classification-when-the-target-is-unbalanced/10270#10270
+
+http://stats.stackexchange.com/questions/17480/how-to-do-roc-analysis-in-r-with-a-cox-model/17648#17648
+'predicted risks will have a narrow distribution if very little variation is explained by the model'
+
+http://stats.stackexchange.com/questions/57606/confidence-interval-for-classification-error-binomial-assumption-vs-bootsrap-r
+r code of proportion classified correctly.
+
+http://stats.stackexchange.com/questions/86917/is-a-lower-training-accuracy-possible-in-overfitting-one-class-svm
+'If you method does not result in a probability I would suggest turning to a method that does. Among other things you will have the benefit of knowing which cases were too close to call'
+
+http://stats.stackexchange.com/questions/18119/how-do-you-predict-a-response-category-given-an-ordinal-logistic-regression-mode
+
+http://stats.stackexchange.com/questions/66022/how-to-select-cut-point-for-making-classifications-table-for-logistic-regression
+
+http://stats.stackexchange.com/questions/49953/classification-vs-regression-for-prediction-of-the-sign-of-a-continuous-respons
+
+http://r.789695.n4.nabble.com/Calculate-Specificity-and-Sensitivity-for-a-given-threshold-value-tc874602.html#a874608
+
+http://r.789695.n4.nabble.com/Calculate-Specificity-and-Sensitivity-for-a-given-threshold-value-tc874602.html#a874603
+
+http://r.789695.n4.nabble.com/ROC-curve-in-R-tc830715.html#a830721
+
+http://stats.stackexchange.com/questions/99936/large-overlap-between-confidence-intervals-although-z-test-for-difference-was-s?rq=1
+It is easy to have individual intervals overlap whereas the interval for the difference excludes zero. The converse is not true however.
+
+http://stats.stackexchange.com/questions/109694/using-empirical-null-distribution-to-adjust-odds-ratios/109699#109699
+
+S Senn: Just because you can classify everything doesn't mean you can predict anything
+ 
+http://stats.stackexchange.com/questions/16597/bootstrapping-estimates-of-out-of-sample-error
+
+http://stats.stackexchange.com/questions/62576/632-bootstrap-estimator-defining-gamma-in-continuous-variable-case
+
+http://r.789695.n4.nabble.com/632-estimator-using-boot-package-td4446720.html
+which bootstrap to use
+
+http://biostat.mc.vanderbilt.edu/wiki/pub/Main/RmS/logistic.val.pdf
+
+http://stats.stackexchange.com/questions/104518/calculate-a-95-confidence-interval-and-p-value-for-the-change-in-c-statistic-us/104535#comment211473_104535
+why you shuld not test c indices
+
+not Harrell but mixed models
+http://stats.stackexchange.com/questions/70556/have-i-correctly-specified-my-model-in-lmer
+
+http://stats.stackexchange.com/questions/22017/sample-size-and-cross-validation-methods-for-cox-regression-predictive-models
+
+http://stats.stackexchange.com/questions/117332/how-to-assess-the-incremental-additive-information-of-a-new-predictor-in-a-cox-m/117344#117344
+
+http://stats.stackexchange.com/questions/104518/calculate-a-95-confidence-interval-and-p-value-for-the-change-in-c-statistic-us
+
+http://stats.stackexchange.com/questions/90659/why-is-auc-higher-for-a-classifier-that-is-less-accurate-than-for-one-that-is-mo
+
+
+http://stats.stackexchange.com/questions/117972/how-to-prove-predictive-use-of-a-biomarker
+
+
+http://stats.stackexchange.com/questions/121797/ranking-two-models-based-on-roc-auc-and-pr-auc/121800#comment232180_121800
+
+http://r.789695.n4.nabble.com/rcorrp-cens-td798392.html
+
+http://stats.stackexchange.com/questions/118254/bootstrapping-hmiscrcorrp-cens-for-paired-concordance
+
+http://stats.stackexchange.com/questions/48419/methods-for-evaluating-predictive-models-in-two-outcome-systems
+
+http://stats.stackexchange.com/questions/117332/how-to-assess-the-incremental-additive-information-of-a-new-predictor-in-a-cox-m
+
+http://stats.stackexchange.com/questions/113586/how-to-assess-the-proportional-hazards-assumption-for-a-continous-variable/113590#113590
+
+http://stats.stackexchange.com/questions/48298/computing-c-index-for-an-external-validation-of-a-cox-ph-model-with-r
+
+http://stats.stackexchange.com/questions/17480/how-to-do-roc-analysis-in-r-with-a-cox-model/17517#17517
+
+http://stats.stackexchange.com/questions/71417/what-is-a-good-fit-brier-score-and-harrells-c-index
+
+http://www.unt.edu/rss/class/Jon/MiscDocs/Harrell_1996.pdf
+
+http://stats.stackexchange.com/questions/66683/why-does-the-hazard-ratio-represent-the-magnitude-of-distance-between-the-kaplan
+
+http://stats.stackexchange.com/questions/91107/is-there-any-functional-difference-between-an-odds-ratio-and-hazard-ratio/91113#91113
+
+http://stats.stackexchange.com/questions/147836/prediction-interval-for-lmer-mixed-effects-model-in-r/147837#147837
+
+http://stats.stackexchange.com/questions/122997/is-there-a-good-recent-literature-review-on-linear-regression-models/123014#123014
+
+http://stats.stackexchange.com/questions/145150/confidence-intervals-when-the-sample-size-is-very-large/145198#145198
+
+https://rpubs.com/kaz_yos/survival-auc
+
+http://rstudio-pubs-static.s3.amazonaws.com/6232_a31888dc084148caaffde80482a1afe4.html
+
+http://stats.stackexchange.com/questions/14516/understanding-bootstrapping-for-validation-and-model-selection
+
+
+http://stats.stackexchange.com/questions/23042/interpretation-and-validation-of-a-cox-proportional-hazards-regression-model-usi
+
+http://stats.stackexchange.com/questions/52785/how-to-interpret-statistics-emax-d-u-q-b-etc-of-bootstrap-validation-of
+
+http://stats.stackexchange.com/questions/46333/using-multiple-imputation-for-cox-proportional-hazards-then-validating-with-rms
+
+ http://stats.stackexchange.com/questions/298/in-linear-regression-when-is-it-appropriate-to-use-the-log-of-an-independent-va
+ #neg binomial
+ http://clustering-dev/recruit/recruit.php?scratch/9b9d88beb1eefa7431d745658d1cdfd3/
+ 
+ http://stats.stackexchange.com/questions/118254/bootstrapping-hmiscrcorrp-cens-for-paired-concordance
+ 
+ http://stats.stackexchange.com/questions/67560/roc-and-multiroc-analysis-how-to-calculate-optimal-cutpoint
+ 
+ http://biostat.mc.vanderbilt.edu/wiki/pub/Main/FHHandouts/probclin.pdf
+
+http://stats.stackexchange.com/questions/126048/how-to-interpret-a-roc-curve
+
+ 
+ #http://stats.stackexchange.com/questions/29719/how-to-determine-best-cutoff-point-and-its-confidence-interval-using-roc-curve-i
+ 
+http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models
+http://www.igidr.ac.in/susant/TEACHING/ETRICS1/probit.pdf
+
+http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression
+
+https://www.google.co.uk/webhp?sourceid=chrome-instant&rlz=1C1QJDB_enGB611GB612&ion=1&espv=2&ie=UTF-8#q=frank+harrell+sensitivity+backward+in+time
+http://stats.stackexchange.com/questions/49010/analogues-of-sensitivity-and-specificity-for-continuous-outcomes
+http://kc.vanderbilt.edu/quant/Seminar/HarrellPresentMay12.pdf
+http://www.fda.gov/downloads/MedicalDevices/NewsEvents/WorkshopsConferences/UCM256357.pdf
+http://stats.stackexchange.com/questions/29719/how-to-determine-best-cutoff-point-and-its-confidence-interval-using-roc-curve-i
+
+http://stats.stackexchange.com/questions/155246/which-variable-relative-importance-method-to-use/155248#155248
+
+Harrels comment 'It is simply not appropriate to seek cutoffs on inputs. Optimum decisions are made using no cutoffs at all, or, if needed before decision time, by making cutoffs on the predicted probabilities. Utilities (loss/cost) are needed to solve for the optimum cutoff on predicted risk'. -  Frank Harrell Sep 7 '13 at 11:52 
+http://stats.stackexchange.com/questions/67560/roc-and-multiroc-analysis-how-to-calculate-optimal-cutpoint
+
+
+
+http://stats.stackexchange.com/questions/17408/how-to-assess-statistical-significance-of-the-accuracy-of-a-classifier
+
+http://stats.stackexchange.com/questions/63257/relationship-between-mcnemars-test-and-conditional-logistic-regression
+
+http://stats.stackexchange.com/questions/87829/sample-size-function-for-mcnemar-test-of-repeated-proportions-in-r
+ 
+%good analogy and discussions  
+https://stat.ethz.ch/pipermail/r-help/2008-October/176708.html 
+
+http://stats.stackexchange.com/questions/44727/percent-correctly-predicted-of-logit-model
+ 
+
+some useful information
+http://repub.eur.nl/pub/1169/
+
+http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s
+
+http://r.789695.n4.nabble.com/How-to-calculate-the-area-under-the-curve-td902633.html
+
+great information
+http://biostat.mc.vanderbilt.edu/wiki/pub/Main/FHHandouts/probclin.pdf
+
+Well said. You have to also ask yourself what is the value of having a cutoff when you can just use the predicted risk on a continuum.
+
+http://stats.stackexchange.com/questions/61521/cut-off-point-in-a-roc-curve-is-there-a-simple-function/82801#82801
+
+
+http://stats.stackexchange.com/questions/29719/how-to-determine-best-cutoff-point-and-its-confidence-interval-using-roc-curve-i/67475#67475
+
+http://stats.stackexchange.com/questions/91088/when-is-a-proper-scoring-rule-a-better-estimate-of-generalization-in-a-classific
+
+https://www.medcalc.org/manual/roc-curves.php
+
+http://www.inside-r.org/packages/cran/epibasix/docs/sensSpec
+
+http://www.medicalbiostatistics.com/roccurve.pdf
+
+http://stats.stackexchange.com/questions/158089/relationship-between-roc-curve-and-statistical-significance-in-comparison-of-two/159037#159037
+
+http://stats.stackexchange.com/questions/51186/what-would-be-an-illustrative-picture-for-linear-mixed-models/51187#51187
+http://stats.stackexchange.com/questions/99370/multilevel-models-including-random-slopes-how-to-calculate-variance
+http://stats.stackexchange.com/questions/140038/lme4-random-effects?rq=1
+http://stats.stackexchange.com/questions/3757/random-effect-slopes-in-linear-mixed-models?rq=1
+http://stats.stackexchange.com/questions/161581/how-to-compute-the-residual-standard-deviation-from-glmer-function-in-r
+http://stats.stackexchange.com/questions/128750/residual-variance-for-glmer?rq=1
+http://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet?lq=1
+http://robjhyndman.com/hyndsight/crossvalidation/
+http://stats.stackexchange.com/questions/19096/in-practice-how-is-the-random-effects-covariance-matrix-calculated-in-a-mixed-ef?rq=1
+http://glmm.wikidot.com/faq
+http://stats.stackexchange.com/questions/37944/what-are-easy-to-interpret-goodness-of-fit-measures-for-linear-mixed-effects-mo?rq=1
+ 
+ http://stats.stackexchange.com/questions/51186/what-would-be-an-illustrative-picture-for-linear-mixed-models/51187#51187
+ http://stackoverflow.com/questions/9447329/how-to-plot-the-results-of-a-mixed-model
+ http://stats.stackexchange.com/questions/98958/plots-to-illustrate-results-of-linear-mixed-effect-model
+ http://stackoverflow.com/questions/9447329/how-to-plot-the-results-of-a-mixed-model
+ http://stackoverflow.com/questions/14358811/extract-prediction-band-from-lme-fit
+ 
+ 
+ 
+ http://stats.stackexchange.com/questions/142530/what-happens-in-linear-regression-if-ys-are-not-independently-sampled?rq=1
+ 
+ http://www.ats.ucla.edu/stat/seminars/statistical_writing/  
+ http://norvig.com/experiment-design.html  
+ http://stats.stackexchange.com/questions/157259/case-control-matched-clustering-in-generalized-estimation-equation-gee-rgeeg   
+ 
+ http://stats.stackexchange.com/questions/64788/interpreting-a-logistic-regression-model-with-multiple-predictors
+ 
+#### managing using plyr and genomic approach to gene expression time course 
+http://varianceexplained.org/r/tidy-genomics/  
+http://rpubs.com/neilfws/83863    
+####p values  
+http://daniellakens.blogspot.co.uk/2015/11/the-relation-between-p-values-and.html
+
+http://stats.stackexchange.com/questions/183456/have-the-reports-of-the-death-of-the-t-test-been-greatly-exaggerated/183470#183470
+
+http://stats.stackexchange.com/questions/69882/why-computing-the-variance-of-the-extracted-random-effect-using-ranef-is-not-t
+
+http://stats.stackexchange.com/questions/68106/understanding-the-variance-of-random-effects-in-lmer-models
+
+
+####frequentist confidence interval coverage
+ http://stats.stackexchange.com/questions/40769/are-all-values-within-a-95-confidence-interval-equally-likely/48567#48567
+ 
+ 
+###qpcr transformatino
+http://www.gene-quantification.net/livak-2001.pdf
+
+http://www.tataa.com/wp-content/uploads/2012/09/European-Pharmaceutical-Reviews-19-2014.pdf
+
+http://www.rdml.org/clinchem.2008.112797v1.pdf
+
+http://www.qpcrforum.com/viewtopic.php?f=78&t=909&p=2528&hilit=loq#p2528
+
+
+
+
+
+http://stats.stackexchange.com/questions/17408/how-to-assess-statistical-significance-of-the-accuracy-of-a-classifier
+
+http://stats.stackexchange.com/questions/63257/relationship-between-mcnemars-test-and-conditional-logistic-regression
+
+
+```{r}
+require(survival)
+n <- 100
+do.one <- function(n) {
+  id <- rep(1:n, each=2)
+  case <- rep(0:1, times=n)
+  rs <- rbinom(n*2, 1, 0.5)
+  c(
+    'pclogit' = coef(summary(clogit(case ~ rs + strata(id))))[5],
+    'pmctest' = mcnemar.test(table(rs[case == 0], rs[case == 1]))$p.value
+  )
+}
+
+out <- replicate(1000, do.one(n))
+
+
+n<-100
+id <- rep(1:n, each=2)
+case <- rep(0:1, times=n)
+rs <- rbinom(n*2, 1, 0.5)
+table(rs[case == 0], rs[case == 1])
+
+x<-cbind(id,case, rs)
+
+
+```
+why not to do one armed trials
+
+http://linus.nci.nih.gov/techreport/fulltext.pdf
+http://jco.ascopubs.org/content/33/17/1867.full.pdf
+http://theoncologist.alphamedpress.org/content/11/6/541.full.pdf
+
+
+more links
+
+http://stackoverflow.com/questions/29703227/model-with-matched-pairs-and-repeated-measures
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025637/
+https://rpubs.com/bbolker/5129
+https://rpubs.com/kaz_yos/case-control1
+https://stat.ethz.ch/pipermail/r-sig-mixed-models/2010q1/003196.html
+https://books.google.co.uk/books/about/Application_of_General_Mixed_Effects_Mod.html?id=7nhjNwAACAAJ&redir_esc=y
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118632
+http://stats.stackexchange.com/questions/16390/when-to-use-generalized-estimating-equations-vs-mixed-effects-models
+http://stats.stackexchange.com/questions/16390/when-to-use-generalized-estimating-equations-vs-mixed-effects-models
+
+http://www.teachingstatistics.co.uk/wp-content/uploads/2011/03/lindley.pdf
+
+
+marginal effects
+http://stats.stackexchange.com/questions/132787/marginal-effects-calculation-in-r-logit-model/132794#132794
+https://diffuseprior.wordpress.com/2012/04/23/probitlogit-marginal-effects-in-r-2/#comments
+http://www.michaelnormanmitchell.com/stow/marginal-effect-at-mean-vs-average-marginal-effect.html
+
+http://rstudio-pubs-static.s3.amazonaws.com/25030_8e9c9ffc3b3c423d9381d81543423502.html
+
+
+http://biostat.mc.vanderbilt.edu/wiki/Main/CourseBios330
+
+look for papers on harrells site above
+
+http://annals.org/article.aspx?articleid=2088542
+http://www.stat.cmu.edu/~cshalizi/uADA/13/
+
+
+http://omicsonline.org/using-biological-variation-data-for-reference-change-values-in-clinical-laboratories-2161-1009.1000e106.php?aid=6512
+
+
+###youden index stuff
+http://stats.stackexchange.com/questions/158089/relationship-between-roc-curve-and-statistical-significance-in-comparison-of-two/159037#159037
+
+http://stats.stackexchange.com/questions/160008/changing-the-sequence-of-variables-in-a-random-forest-model-changes-the-classifi/160010#160010
+
+#http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127272#sec002
+#https://faculty.unlv.edu/gshan/
+#https://faculty.unlv.edu/gshan/CI-YoudenIndex.r
+
+http://stats.stackexchange.com/questions/142530/what-happens-in-linear-regression-if-ys-are-not-independently-sampled?rq=1
+https://cran.r-project.org/doc/contrib/Epicalc_Book.pdf
+
+http://daniellakens.blogspot.co.uk/2015/11/the-relation-between-p-values-and.html
+
+http://varianceexplained.org/r/tidy-genomics/
+http://rpubs.com/neilfws/83863
+
+
+http://editorresources.taylorandfrancisgroup.com/veto-on-the-use-of-null-hypothesis-testing-and-p-intervals-right-or-wrong/
+
+http://arxiv.org/pdf/1511.03761v1.pdf
+https://matloff.wordpress.com/2015/11/15/partools-recommender-systems-and-more/
+
+http://www.science.oregonstate.edu/~murtaugh/files/ecol2007.PDF
+http://www.science.oregonstate.edu/~murtaugh/files/ecol-2014r.pdf
+http://www.science.oregonstate.edu/~murtaugh/files/ecol-2014.pdf
+
+http://www.r-bloggers.com/modeling-gene-expression-with-broom-a-case-study-in-tidy-analysis/
+http://varianceexplained.org/r/tidy-genomics-broom/
+
+http://www.r-bloggers.com/introduction-to-bootstrap-with-applications-to-mixed-effect-models/
+http://stats.stackexchange.com/questions/183456/have-the-reports-of-the-death-of-the-t-test-been-greatly-exaggerated/183470#183470
+http://daniellakens.blogspot.co.uk/2015/11/the-relation-between-p-values-and.html
+
+http://stats.stackexchange.com/questions/183456/have-the-reports-of-the-death-of-the-t-test-been-greatly-exaggerated/183470#183470
+
+http://192.38.117.59/~tag/Teaching/share/material/perfRiskPred-gerds-cai-schumacher.pdf
+
+###odds ratio
+http://www.dartmouth.edu/~eugened/power-samplesize.php?alpha=0.05&power=+.8&n=&OR=2&varnum=1&Prx_1=+.5&Pry_1=+.2&Prx_2=&Prz_2=&ORyz_2=&ORxz_2=&Pry_2=&Prx_3=&ORyx_3=&Prz_3=&ORyz_3=&ORxz_3=&Pry_3=&submit=calculate
+
+hese algorithms are described in Demidenko E. (2007). "Sample size determination for logistic regression revisited." Statistics in Medicine 26:3385-3397 and Demidenko E. (2008) "Sample size and optimal design for logistic regression with binary interaction." Statistics in Medicine, 27:36-46
+
+The optimal ratio of cases to controls for estimating the classification accuracy of a biomarker
+
+http://stats.stackexchange.com/questions/48381/power-calculations-logistic-regression-with-continuous-exposure-cohort
+
+http://stats.stackexchange.com/questions/35940/simulation-of-logistic-regression-power-analysis-designed-experiments
+
+http://stats.stackexchange.com/questions/62208/simulate-data-for-power-analysis-of-logistic-regression-model-include-covarian?rq=1
+
+
+http://personal.health.usf.edu/ywu/logistic.pdf
+
+
+http://stats.stackexchange.com/questions/48381/power-calculations-logistic-regression-with-continuous-exposure-cohort
+
+http://stats.stackexchange.com/questions/48381/power-calculations-logistic-regression-with-continuous-exposure-cohort
+
+
+####methcomp reference
+http://www.londonr.org/Presentations/KOB%20London%20R%20Mar%202012.pdf
+#bayesin apredictive cheking
+https://www.cs.princeton.edu/courses/archive/fall09/cos597A/papers/GelmanMengStern1996.pdf
+http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?view=body&id=pdf_1&handle=euclid.ba/1340393242
+
+####http://junkcharts.typepad.com/numbersruleyourworld/2015/12/what-you-learned-and-not-learned-about-machine-learning.html  
+####Like Nate Silver likes to say, the key to understanding data is probabilistic thinking, something completely absent from the decision tree description. - Kaiser fUng
+
+
+##definitions
+http://andrewgelman.com/2015/03/29/bayesian-frequentist-regression-  
+eg regression: A specification of the conditional expectation of y given x
+
+###Senn 
+Not to adjust because the model may not be correct is like saying it's dangerous to cross in a canoe so I'll swim
+
+http://www.r-bloggers.com/random-regression-coefficients-using-lme4/  
+
+http://stats.stackexchange.com/questions/90659/why-is-auc-higher-for-a-
+classifier-that-is-less-accurate-than-for-one-that-is-mo?rq=1
+
+### Gelman 24 Dec 2015
+### 'They play very fast and loose with data cleaning, model interpretation, casuality, etc'
+
+####Enjoy the result you will find with exploratory data analysis, for you will not find it again. (Senn) 
+
+####On page 2 top, explanation of not drawing conclusion of pop effect based on point estimates in a sample 
+####http://www.ssc.upenn.edu/~fdiebold/papers/paper113/Diebold_DM%20Test.pdf
+
+
+http://cardiobrief.org/2016/01/05/jama-study-precision-medicine-flunks-test-gets-left-back-in-second-grade/
+
+http://errorstatistics.com/2012/07/09/stephen-senn-randomization-ratios-and-rationality-rescuing-the-randomized-clinical-trial-from-its-critics/
+
+http://errorstatistics.com/2013/07/14/stephen-senn-indefinite-irrelevance-2/
+
+
+####randomisation papers
+ftp://ftp.biostat.wisc.edu/pub/chappell/641/papers/paper22.pdf
+
+ftp://www.biostat.wisc.edu/pub/chappell/641/papers/paper23.pdf
+
+http://ebm.bmj.com/content/17/1/1.full.pdf+html
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.463.2948&rep=rep1&type=pdf
+
+###review of harrell's rms http://www.benkuhn.net/rms
+###' I think this is a good thing, since "machine learning" frequently refers to throwing your features into a gradient boosting machine and blindly trying different preprocessing steps until the performance goes up.'
+
+
+######################################senn
+Senn: fallacy of the transposed conditional
+
+defence were keen to point out only 1 in 1000 men who batter wives have gone on to murder them,
+OJ had a convinction that he could not dispute
+defense pointed this out, so OJ not automatically a murderer
+
+most women not murdered. It is not disputed mrs simpson had been murdered.
+given murdered, given in abusive relationship prob abuser murdered her 0.7
+
+fortunately most women do not get breast cancer
+cannot say therefore most breast cancer are not women. does not follow.
+
+
+1 in million this DNA match.
+100 males in Us can make same statement
+each cannot be guilty
+low prob of match does not translate into pro of guilt.
+##############################
+
+##why not to compare models based on auc
+http://stats.stackexchange.com/questions/90659/why-is-auc-higher-for-a-classifier-that-is-less-accurate-than-for-one-that-is-mo/90775#90775
+
+http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0537-9
+
+##harrell and others on Fishers exact test
+https://www.ctspedia.org/do/view/CTSpedia/ChiVersusFisher
+
+senn jan8 
+Responder = observed (NOT caused) to get better
+
+
+LoB: highest measurement likely to be observed for a blank  
+LoD: a sample that equals the LoD, 95% of its results exceed the lob  
+for qpcr replace highest with lowest and exceed with 'fall short of'  
+
+#use logistic regression for comparing proportions
+http://stats.stackexchange.com/questions/182729/statistical-test-for-the-differences-of-the-differences-in-two-proportions
+
+ 
